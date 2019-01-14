@@ -1,1 +1,1 @@
-# spring-boot-tutorial
+# Spring Boot & Spring Core Tutorial
