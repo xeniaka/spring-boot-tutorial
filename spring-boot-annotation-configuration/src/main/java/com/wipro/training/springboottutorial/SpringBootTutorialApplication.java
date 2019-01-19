@@ -16,6 +16,5 @@ public class SpringBootTutorialApplication {
 
         controller.saySomething();
     }
-
 }
 
