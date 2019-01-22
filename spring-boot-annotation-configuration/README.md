@@ -1,1 +1,9 @@
-# Spring Boot & Spring Core Tutorial
+# Configuring using Annotations
+
+Beans are created using annotation like:
+* `@Service`
+* `@Controller`
+* `@Componenet`
+
+Profiles (`@Profile`) are used to define which bean will be injected.
+
