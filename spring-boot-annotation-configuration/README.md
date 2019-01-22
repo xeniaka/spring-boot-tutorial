@@ -1,4 +1,4 @@
-# Configuring using Annotations
+# Configuration using Annotations
 
 Beans are created using annotation like:
 * `@Service`

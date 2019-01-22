@@ -1,4 +1,4 @@
-# Configuring using Configuration Class
+# Configuration using a Java Class
 
 Beans are created using in a class annotated with `@Configuration`. 
 
