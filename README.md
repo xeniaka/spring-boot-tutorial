@@ -3,7 +3,7 @@
 Set of projects to with examples of how to use the basics of Spring Core and Spring Boot.
 
 ##spring-boot-annotation-configuration
-Dependency Injection (DI) and Inversion of Control (IcC) using annotations.
+Dependency Injection (DI) and Inversion of Control (IoC) using annotations.
 
 ##spring-boot-bean-configuration
 Uses a configuration class to create Spring Beans.
